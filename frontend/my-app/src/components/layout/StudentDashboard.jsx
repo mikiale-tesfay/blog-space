@@ -8,8 +8,8 @@ const StudentDashboard = () => {
     <div className="w-full bg-white dark:bg-muted">
       {/* Sidebar */}
 
-      <StudentSidebar />
-      {/* Topbar */}
+      {/* <StudentSidebar />
+       */}
 
       <StudentTopbar />
 
